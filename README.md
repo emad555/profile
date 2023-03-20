@@ -4,4 +4,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emad555&repo=todoApp)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
