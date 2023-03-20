@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emad555&show_icons=true&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=emad555&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=emad555&color=green) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
