@@ -6,3 +6,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emad555&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
